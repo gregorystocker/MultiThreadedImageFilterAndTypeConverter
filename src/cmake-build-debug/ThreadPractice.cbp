@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ThreadPractice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/greg/CLionProjects/BMPThreads/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/greg/CLionProjects/BMPThreads/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/greg/CLionProjects/BMPThreads/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BMPThreads">
+				<Option output="/home/greg/CLionProjects/BMPThreads/cmake-build-debug/BMPThreads" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/greg/CLionProjects/BMPThreads/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 BMPThreads"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BMPThreads/fast">
+				<Option output="/home/greg/CLionProjects/BMPThreads/cmake-build-debug/BMPThreads" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/greg/CLionProjects/BMPThreads/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 BMPThreads/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/greg/CLionProjects/BMPThreads/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/BmpProcessor.c">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/BmpProcessor.h">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/PixelProcessor.c">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/PixelProcessor.h">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/StockerFilters.c">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/ThreadInfo.c">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/ThreadInfo.h">
+			<Option target="BMPThreads"/>
+		</Unit>
+		<Unit filename="/home/greg/CLionProjects/BMPThreads/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

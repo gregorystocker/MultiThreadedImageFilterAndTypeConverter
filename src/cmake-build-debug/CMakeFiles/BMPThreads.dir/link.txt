@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/BMPThreads.dir/StockerFilters.c.o CMakeFiles/BMPThreads.dir/BmpProcessor.c.o CMakeFiles/BMPThreads.dir/PixelProcessor.c.o CMakeFiles/BMPThreads.dir/ThreadInfo.c.o -o BMPThreads 

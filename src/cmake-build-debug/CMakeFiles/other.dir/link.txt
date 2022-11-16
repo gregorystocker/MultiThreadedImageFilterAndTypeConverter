@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -lm -g CMakeFiles/other.dir/StockerFilters.c.o CMakeFiles/other.dir/PixelProcessor.c.o CMakeFiles/other.dir/BmpProcessor.c.o CMakeFiles/other.dir/PpmProcessor.c.o -o other  -lm 
